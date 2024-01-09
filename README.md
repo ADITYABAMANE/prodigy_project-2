@@ -1,1 +1,2 @@
-Site is live at  https://anjalipatil05.github.io/PRODIGY_WD_02/
+
+https://github.com/ADITYABAMANE/prodigy_project-2/edit/main/README.md
